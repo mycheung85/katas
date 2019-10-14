@@ -1,0 +1,17 @@
+{
+  "name": "wowcher-fe-test",
+  "version": "1.0.0",
+  "description": "front-end refactoring test for wowcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3",
+    "mocha": "5.2.0",
+    "nodemon": "1.17.5"
+  }
+}

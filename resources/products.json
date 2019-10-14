@@ -1,0 +1,18 @@
+[
+  {
+    "productId": 111,
+    "productName": "toothbrush"
+  },
+  {
+    "productId": 222,
+    "productName": "hammer"
+  },
+  {
+    "productId": 333,
+    "productName": "spoon"
+  },
+  {
+    "productId": 444,
+    "productName": "chair"
+  }
+]
